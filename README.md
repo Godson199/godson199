@@ -17,7 +17,7 @@
   
 </div>
 <img
-src="https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg" align="left" height="300" width="300" />  
+src="https://miro.medium.com/max/993/1*jd_xgOzAFw7rBklREtgOTQ.png" align="left" height="300" width="300" />  
 
 </br>
 
