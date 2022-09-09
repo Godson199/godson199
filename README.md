@@ -13,18 +13,8 @@
 </br>
 
 ## Who is a Data Scientist
-<div align="center">  
-  
-</div>  
 
 <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F993%2F1*jd_xgOzAFw7rBklREtgOTQ.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fdata-science-in-2019%2Fwhat-is-data-science-87e9dc225cf9&tbnid=LaXIqLyhwBeYuM&vet=12ahUKEwjyiYKYz4f6AhXBOMAKHS_QC24QMyg6egQIARBz..i&docid=evno0KuXm_qjRM&w=993&h=900&q=data%20scientist%20&ved=2ahUKEwjyiYKYz4f6AhXBOMAKHS_QC24QMyg6egQIARBz" align="left" height="200" width="200" />  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%"
 
 </br>
 
