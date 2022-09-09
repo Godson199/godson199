@@ -61,16 +61,10 @@ src="https://miro.medium.com/max/993/1*jd_xgOzAFw7rBklREtgOTQ.png" align="left" 
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-<p Simple is better than complex and complex is better than complicated </p>
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+## Quotes 
+ 
+#### "Simple is better than complex and complex is better than complicated"
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=godson199&&style=flat-square" align="center" />
