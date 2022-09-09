@@ -34,6 +34,7 @@ src="https://miro.medium.com/max/993/1*jd_xgOzAFw7rBklREtgOTQ.png" align="left" 
 <br/> 
 
 ## Connect with me  
+
 <div align="center">
 
 <a href="https://https://www.linkedin.com/in/izuogu-chibuzor-32743251/" target="_blank">
