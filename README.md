@@ -19,8 +19,10 @@
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>  
-
 </p>
+
+<br/> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://dev.to/rishavanand" target="_blank">
@@ -55,6 +57,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+<a Simple is better than complex and complex is better than complicated </a>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
