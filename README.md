@@ -63,6 +63,8 @@ src="https://miro.medium.com/max/993/1*jd_xgOzAFw7rBklREtgOTQ.png" align="left" 
 
 ## Quotes 
  
+#### " In God we Trust All Others Must bring Data!"
+<br/> 
 #### "Simple is better than complex and complex is better than complicated"
 <br/> 
 
