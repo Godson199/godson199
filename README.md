@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/godson199](github.com/godson199)
 
-- 📫 How to reach me **godsonizuogu@yahoo.com, godsonizuogu@gmail.com**
+- 📫 How to reach me **godsonizuogu@yahoo.com, godsonizuogu@gmail.com, +2347046863718**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk](https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk)
 
