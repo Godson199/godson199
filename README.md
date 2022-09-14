@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **godsonizuogu@yahoo.com, godsonizuogu@gmail.com, +2347046863718**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk](https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk)
+- 📄 Know about my experiences -Resume [https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk](https://drive.google.com/file/d/1j9Pqy3_Z7Zbd8qka6Ye1a689JN-PKuWZ/view?usp=drivesdk)
 
 </br>
 
