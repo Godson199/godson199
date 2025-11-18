@@ -75,7 +75,7 @@ Visualization: Matplotlib, Seaborn, StatsModels, Pandas
 
 ## Quotes 
  
-#### " In God we Trust All Others Must bring Data!"
+#### " Stay with it, Figure it out and Master it"
 #### "Simple is better than complex and complex is better than complicated"
 <br/> 
 
