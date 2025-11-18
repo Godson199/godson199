@@ -25,7 +25,6 @@ Developer Tools: Docker, Azure, PgAdmin, Git/GitHub, VS Code, Anaconda, JupyterL
 Visualization: Matplotlib, Seaborn, StatsModels, Pandas
 
 
-- 🔭 I’m currently working on **Plants (Tomatoes) Disease Classifier**
 
 - 👨‍💻 All of my projects are available at [github.com/godson199](github.com/godson199)
 
