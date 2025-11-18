@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izuogu Chibuzor Godson</h1>
-<h3 align="center">AI/ML Engineer • Backend Developer • Data Scientist</h3>
+<h3 align="center">Physicist • AI/ML Engineer • Backend Developer • Data Scientist</h3>
 
 
 I am a passionate AI Engineer and Backend Developer with skillset for building intelligent systems, deploying machine learning models, and creating production-grade APIs. I love transforming data into insight, automating processes with AI, and building robust applications that scale.
@@ -28,20 +28,10 @@ Visualization: Matplotlib, Seaborn, StatsModels, Pandas
 
 - 👨‍💻 All of my projects are available at [github.com/godson199](github.com/godson199)
 
-- 📫 How to reach me **godsonizuogu@yahoo.com, godsonizuogu@gmail.com, +2347046863718**
+- 📫 How to reach me **godsonizuogu@yahoo.com, godsonizuogu@gmail.com**
 
 - 📄 Know about my experiences -Resume [https://drive.google.com/file/d/1bwx4XgZ4b3iIbJyvNg9cRMtkZmLRNhyT/view?usp=drivesdk](https://drive.google.com/file/d/1j9Pqy3_Z7Zbd8qka6Ye1a689JN-PKuWZ/view?usp=drivesdk)
 
-</br>
-
-## Who is a Data Scientist
-<div align="center">  
-  
-</div>
-<img
-src="https://miro.medium.com/max/993/1*jd_xgOzAFw7rBklREtgOTQ.png" align="left" height="300" width="300" />  
-
-</br>
 
 ## My Skill Set  
 
