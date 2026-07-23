@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Izuogu Chibuzor Godson</h1>
-<h3 align="center">Physicist • AI/ML Engineer • Backend Developer • Data Scientist</h3>
+<h3 align="center">Physicist • AI/ML Engineer • Data Analyst • Data Scientist</h3>
 
 
-I am a passionate AI Engineer and Backend Developer with skillset for building intelligent systems, deploying machine learning models, and creating production-grade APIs. I love transforming data into insight, automating processes with AI, and building robust applications that scale.
+I am a passionate Data Scientist, AI/ML Engineer with skillset for building intelligent systems, deploying machine learning models, and creating production-grade APIs. I love transforming data into insight, automating processes with AI, and building robust applications that scale.
 
 🚀 What I Do:
 
