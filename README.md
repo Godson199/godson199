@@ -4,17 +4,17 @@
 
 I am a passionate AI Engineer and Backend Developer with skillset for building intelligent systems, deploying machine learning models, and creating production-grade APIs. I love transforming data into insight, automating processes with AI, and building robust applications that scale.
 
-🚀 What I Do
+🚀 What I Do:
 
+🔹 Data Science & Analytics: Data cleaning, visualization, EDA, SQL analysis
 🔹 AI & Machine Learning: Model development, evaluation, optimization, and deployment
 🔹 LLM Applications: Chatbot/agent creation, embeddings, semantic search, OpenAI/HuggingFace integration
 🔹 Backend Engineering: API development with FastAPI, authentication, rate limiting, database design
-🔹 Data Science & Analytics: Data cleaning, visualization, EDA, SQL analysis
 🔹 DevOps & Deployment: Docker containerization, model serving, cloud deployment
 
-🛠️ Technologies I Work With
+🛠️ Technologies I Work With:
 
-Programming: Python, SQL
+Programming: Python, SQL, DAX
 
 AI/ML Frameworks: TensorFlow, Keras, Scikit-Learn, CNNs, Hugging Face, LangChain, FAISS
 
