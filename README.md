@@ -16,13 +16,13 @@ I am a passionate AI Engineer and Backend Developer with skillset for building i
 
 Programming: Python, SQL, DAX
 
+Visualization: Matplotlib, Seaborn, StatsModels, Pandas, Excel, Power BI
+
 AI/ML Frameworks: TensorFlow, Keras, Scikit-Learn, CNNs, Hugging Face, LangChain, FAISS
 
 Backend Tools: FastAPI, SQLAlchemy, PostgreSQL, Pydantic, Uvicorn
 
 Developer Tools: Docker, Azure, PgAdmin, Git/GitHub, VS Code, Anaconda, JupyterLab
-
-Visualization: Matplotlib, Seaborn, StatsModels, Pandas
 
 
 
