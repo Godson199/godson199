@@ -68,14 +68,6 @@ I'm a Data Scientist and AI/ML Engineer with a comprehensive skill set for build
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=godson199&show_icons=true&count_private=true&hide_border=true" align="center"/>
-</div>
-
-<br/>
-
 ## Quotes
 
 > "Stay with it, figure it out, and master it."
