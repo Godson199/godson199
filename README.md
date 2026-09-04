@@ -21,17 +21,17 @@ My **Physics background** underpins all of this: it trained me to think mathemat
 ### 🛠️ Technologies I Work With
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="48" height="48"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="48" height="48"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="48" height="48"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="90" height="90"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="90" height="90"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="90" height="90"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="90" height="90"/></a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="90" height="90"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="90" height="90"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="90" height="90"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="90" height="90"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="90" height="90"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="90" height="90"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="90" height="90"/></a>
 </p>
 
 ### 📌 What I Build
@@ -41,19 +41,6 @@ My **Physics background** underpins all of this: it trained me to think mathemat
 - 🤖 AI, LLM & RAG applications
 - ⚙️ Production APIs & intelligent systems
 - 🔬 Scientific machine learning research
-
-### 🌱 Currently
-
-- Leading **SmartOpsAI**, delivering data analytics, AI automation, and business intelligence solutions
-- Building out **CoveIT Hub**, a training initiative for data and AI skills
-- Open to collaborating on ML, LLM/RAG, and data engineering projects
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=godson199&show_icons=true&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godson199&hide_border=true" height="165"/>
-</p>
 
 ### 📫 Connect With Me
 
