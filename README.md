@@ -10,8 +10,6 @@
 
 ### 🚀 About Me
 
-I work at the intersection of **Physics, Data Science, and AI/ML Engineering** — taking problems from data analysis and experimentation through to machine learning, AI application development, and deployment.
-
 As a **Data Analyst and Data Scientist**, I work with data to uncover patterns, generate insights, build predictive models, and support data-driven decisions — using **Excel, Power BI, SQL, Python, statistical analysis, and machine learning** to turn raw, complex datasets into information that drives better decisions.
 
 As an **AI/ML Engineer**, I build intelligent applications using **machine learning, deep learning, LLMs, RAG, embeddings, semantic search, and conversational AI** — and take them beyond notebooks into usable systems with **FastAPI, PostgreSQL, SQLAlchemy, Docker**, and cloud platforms.
