@@ -10,6 +10,8 @@
 
 ### 🚀 About Me
 
+I work at the intersection of **Physics, Data Science, and AI/ML Engineering** — taking problems from data analysis and experimentation through to machine learning, AI application development, and deployment.
+
 As a **Data Analyst and Data Scientist**, I work with data to uncover patterns, generate insights, build predictive models, and support data-driven decisions — using **Excel, Power BI, SQL, Python, statistical analysis, and machine learning** to turn raw, complex datasets into information that drives better decisions.
 
 As an **AI/ML Engineer**, I build intelligent applications using **machine learning, deep learning, LLMs, RAG, embeddings, semantic search, and conversational AI** — and take them beyond notebooks into usable systems with **FastAPI, PostgreSQL, SQLAlchemy, Docker**, and cloud platforms.
@@ -24,7 +26,11 @@ My **Physics background** underpins all of this: it trained me to think mathemat
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="90" height="90"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="90" height="90"/></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="90" height="90"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="90" height="90"/></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="90" height="90"/></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="90" height="90"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" width="90" height="90"/></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="90" height="90"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="90" height="90"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="90" height="90"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="90" height="90"/></a>
