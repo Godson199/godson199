@@ -1,81 +1,104 @@
 <h1 align="center">Hi 👋, I'm Izuogu Chibuzor Godson</h1>
-<h3 align="center">Physicist • AI/ML Engineer • Data Analyst • Data Scientist</h3>
+
+<h3 align="center">Physicist • Applied AI/ML Engineer • Data Scientist</h3>
 
 <p align="center">
-I'm a Data Scientist and AI/ML Engineer with a comprehensive skill set for building intelligent systems, deploying machine learning models, and creating production-grade APIs. I love turning data into insight, automating processes with AI, and building robust applications that scale.
+  <a href="https://github.com/godson199">
+    <img src="https://komarev.com/ghpvc/?username=godson199&style=flat-square" alt="Profile views"/>
+  </a>
+</p>
+
+<p align="center">
+  I build intelligent systems that connect data, machine learning, and real-world applications.
 </p>
 
 ---
 
-### 🚀 What I Do
+### 👨‍💻 About Me
 
-- 🔹 **Data Science & Analytics** — data cleaning, visualization, EDA, SQL analysis
-- 🔹 **AI & Machine Learning** — model development, evaluation, optimization, and deployment
-- 🔹 **LLM Applications** — chatbot/agent creation, embeddings, semantic search, OpenAI/Hugging Face integration
-- 🔹 **Backend Engineering** — API development with FastAPI, authentication, rate limiting, database design
-- 🔹 **DevOps & Deployment** — Docker containerization, model serving, cloud deployment
+I'm a **Physicist, Applied AI/ML Engineer, and Data Scientist** with a background in Physics/Electronics and a strong interest in building practical AI systems.
 
-### 🛠️ Technologies I Work With
+My work sits at the intersection of **machine learning, data analytics, backend engineering, and intelligent applications**. I enjoy taking an idea from data exploration and model development to a working API or production-ready system.
 
-**Programming:** Python, SQL, DAX
+I'm particularly interested in **LLM applications, retrieval-augmented generation, machine learning evaluation, and the engineering challenges involved in making AI systems reliable and useful.**
 
-**Visualization:** Pandas, Matplotlib, Seaborn, StatsModels, Excel, Power BI
+Currently, I work on AI/ML research and implementation, including the development of conversational systems and data-driven applications.
 
-**AI/ML Frameworks:** TensorFlow, Keras, Scikit-Learn, CNNs, Hugging Face, LangChain, FAISS
+### 🚀 What I Work On
 
-**Backend Tools:** FastAPI, SQLAlchemy, PostgreSQL, Pydantic, Uvicorn
+* **Applied AI & Machine Learning** — Developing, evaluating, and deploying machine learning models for practical use cases.
+* **LLM Applications** — Building conversational AI, RAG systems, semantic search, and intelligent assistants using modern LLM technologies.
+* **Data Science & Analytics** — Turning raw data into insights through data cleaning, exploratory analysis, statistical methods, and visualization.
+* **Backend Engineering** — Building production-grade APIs and AI services with FastAPI, PostgreSQL, and SQLAlchemy.
+* **AI Systems & Deployment** — Working with model serving, Docker, cloud deployment, and the engineering practices required to move AI applications beyond experimentation.
+* **Research & Experimentation** — Exploring machine learning, AI evaluation, and the application of computational methods to scientific problems.
 
-**Developer Tools:** Docker, Azure, PgAdmin, Git/GitHub, VS Code, Anaconda, JupyterLab
+### 🛠️ Tech Stack
 
-- 👨‍💻 All of my projects are available at [github.com/godson199](https://github.com/godson199)
-- 📫 Reach me at **godsonizuogu@yahoo.com** / **godsonizuogu@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/1j9Pqy3_Z7Zbd8qka6Ye1a689JN-PKuWZ/view?usp=drivesdk)
+**Languages** <br/>
+Python • SQL • DAX • M
 
-<br/>
+**Data Science & Analytics** <br/>
+Pandas • NumPy • Matplotlib • Seaborn • StatsModels • Scikit-learn • Excel • Power BI
 
-## My Skill Set
+**AI & Machine Learning** <br/>
+TensorFlow • Keras • Scikit-learn • XGBoost • LightGBM • Hugging Face • LangChain • FAISS
+
+**Backend & Databases** <br/>
+FastAPI • SQLAlchemy • PostgreSQL • Pydantic • Uvicorn
+
+**Tools & Infrastructure** <br/>
+Docker • Azure • Git • GitHub • VS Code • JupyterLab • Anaconda • PgAdmin
+
+### 🔬 Research Interests
+
+* Large Language Models and AI Applications
+* Retrieval-Augmented Generation and Semantic Search
+* Machine Learning Evaluation and AI Reliability
+* Physics-Informed Machine Learning
+* Scientific Computing and Data-Driven Research
+* Materials Science and Computational Physics
+
+### 📌 Featured Work
+
+Some of the areas I work on include:
+
+* **Conversational AI & RAG** — Building assistants that retrieve relevant knowledge and provide grounded responses.
+* **AI-Powered Applications** — Connecting LLMs, APIs, databases, and user-facing applications.
+* **Data Analytics Projects** — Using Python, SQL, Excel, and Power BI to solve business and analytical problems.
+* **Scientific Machine Learning** — Exploring the use of machine learning in physics and scientific research.
+
+### 🌱 Currently Learning & Exploring
+
+* Advanced LLM application development
+* AI evaluation and reliability
+* Production ML and MLOps
+* Scalable backend architecture
+* Physics-Informed Neural Networks
+* Research in AI and scientific computing
+
+### 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50"/></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/></a>
+  <a href="https://github.com/godson199" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/izuogu-chibuzor-32743251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/godsonizuogu" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 
-<br/>
+📧 **Email:** [godsonizuogu@yahoo.com](mailto:godsonizuogu@yahoo.com) / [godsonizuogu@gmail.com](mailto:godsonizuogu@gmail.com)
 
-## Connect with Me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/izuogu-chibuzor-32743251/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-</a>
-<a href="https://github.com/godson199" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
-</a>
-<a href="https://twitter.com/godsonizuogu" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
-</a>
-</div>
-
-<br/>
-
-## Quotes
-
-> "Stay with it, figure it out, and master it."
-> "Simple is better than complex, and complex is better than complicated."
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=godson199&style=flat-square" align="center"/>
-</div>
+📄 **Resume:** [View my Resume](https://drive.google.com/file/d/1j9Pqy3_Z7Zbd8qka6Ye1a689JN-PKuWZ/view?usp=drivesdk)
 
 ---
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
+
+> "Stay with it, figure it out, and master it."
+
+<p align="center">
+  <i>Building at the intersection of science, data, and intelligent systems.</i>
+</p>
